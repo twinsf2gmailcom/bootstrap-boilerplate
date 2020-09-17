@@ -8,7 +8,7 @@ boiler plate of the bootstrap website.
 ` git clone ` repository
 
 ## Bootstrap Starter Template
-[ Templete website: ] ( https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template )
+[Template website link] (https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template)
 
 ** We recommend using BootStrab 4.5 **
 
